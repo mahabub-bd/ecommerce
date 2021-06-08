@@ -1,9 +1,11 @@
+// Header SCSS
+
 .top_header {
   min-height: 44px;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-
+  background: $dark;
   justify-content: space-between;
   align-items: center;
 }
